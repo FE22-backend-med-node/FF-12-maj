@@ -1,0 +1,78 @@
+{
+    "myCollection": [
+        {
+            "id": 1,
+            "specie": "Red Eyed Tree Frog",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 2,
+            "specie": "Pepe",
+            "isCute": true,
+            "poisonous": true
+        },
+        {
+            "id": 3,
+            "specie": "Blue Poison Dart Frog",
+            "isCute": true,
+            "poisonous": true
+        },
+        {
+            "id": 4,
+            "specie": "Mimic Poison Frog",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 19957,
+            "specie": "Fido",
+            "isCute": true,
+            "poisonous": true
+        }
+    ],
+    "wildFrogs": [
+        {
+            "id": 5,
+            "specie": "Amazon Milk Frog",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 6,
+            "specie": "Tomato Frog",
+            "isCute": true,
+            "poisonous": true
+        },
+        {
+            "id": 7,
+            "specie": "Goliath Frog",
+            "isCute": true,
+            "poisonous": true
+        },
+        {
+            "id": 8,
+            "specie": "Bull Frog",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 31804,
+            "specie": "Georg",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 53300,
+            "specie": "Koala",
+            "isCute": true,
+            "poisonous": false
+        },
+        {
+            "id": 53542,
+            "specie": "saefd",
+            "isCute": false,
+            "poisonous": false
+        }
+    ]
+}
